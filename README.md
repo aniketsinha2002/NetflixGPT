@@ -51,8 +51,8 @@ After implementing various optimization strategies, a detailed performance repor
 
 - **Debouncing in Search:** Implemented debouncing to prevent excessive calls during user input.
 - **Redux Store for Caching:** Cached frequently used data across the app, including a multilingual feature.
-- **Code Splitting:** Divided code into smaller chunks for faster initial load times.
 - **Lazy Loading:**  Lazy loading of components
+- **Code Splitting:** Divided code into smaller chunks for faster initial load times.
 - **Code Optimization:** Streamlined and optimized the codebase for better performance.
 - **Efficient JSX Rendering:** Rendered components conditionally based on data, reducing unnecessary load on the browser.
 - **Checked Critical Rendering Path (CRP) Concepts:** Ensured no render-blocking CSS or parser-blocking JavaScript was used, and removed unused or duplicate CSS.
